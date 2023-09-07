@@ -1,0 +1,11 @@
+commit 7b35785c74e39a79a57e175dc4de35ae75faa992
+Author: Yaattzy <yeratzyen@gmail.com>
+Date:   Thu Sep 7 10:41:14 2023 -0700
+
+    Encabezado y titulo
+
+commit d7b00dbcd3ba3951c4ccd83ad15d630a2946492c
+Author: Yaattzy <yeratzyen@gmail.com>
+Date:   Thu Sep 7 10:32:24 2023 -0700
+
+    Archivos iniciales de la clase
