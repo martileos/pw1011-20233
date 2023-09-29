@@ -1,5 +1,5 @@
 body{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     font-size: 16px;  /*1em*/
     margin: 0px auto;
     max-width: 1024px;
@@ -45,4 +45,29 @@ header nav ul li{
 #seccion01 article img{
     border: 5px solid rgba(150,150,150,0.5);
     width: 98%;
+}
+#seccion02{
+    margin-bottom: 50px;
+}
+#seccion02 article{
+    /* border: 1px solid blue; */
+    display: inline-block;
+    vertical-align: top;
+    width: 33.0%;
+}
+#seccion02 article input[type="submit"]{
+    background: white;
+    border-radius: 5px;
+    color: blue;
+    margin-left: 130px;
+    padding: 5px;
+}
+.nito{
+    font-weight: bold; /*Negritas*/
+}
+.otraSeccion{
+    font-size: 2.5em;
+}
+.unaSeccion{
+    font-size: 4.5em;  
 }
